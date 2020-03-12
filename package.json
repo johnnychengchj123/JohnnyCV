@@ -15,10 +15,6 @@
   ],
   "author": "DIYgod",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/DIYgod/Resume/issues"
-  },
-  "homepage": "https://github.com/DIYgod/Resume#readme",
   "devDependencies": {
     "browser-sync": "^2.10.0",
     "gulp": "^3.9.0",
